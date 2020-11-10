@@ -59,7 +59,10 @@ header .menu .c-2:hover {background: #2ca77e;}
 header .menu .c-3:hover {background: #319775;}
 
 /* Slider */
-
+.img{
+    width: 1100px;
+    height: 400px;
+}
 .slider{
     margin-bottom: 40px;
 }
